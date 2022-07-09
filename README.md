@@ -15,6 +15,7 @@ The following is a table used to break down all the materials and supplements fo
 Additional info:
 * For all WS in the Additional Reading section use [this](https://www.designofapproxalgs.com/book.pdf) for the book *The Design of Approximation Algorithms* by Williamson and Shmoys.
 * VV in the Additional Reading section refer to Vijay Vazirani's *Approximation Algorithms* book.
+* *Probability and Computing: Randomized Algorithms and Probabilistic Analysis* book by Mitzenmacher and Upfal is written as MU in the Additional Reading section.
 * All recording passwords are located [here](RecordingPasswords.md) (private file).
 
 Date | Topics | Lecture Materials | Additional Reading | Homework | Implementations
