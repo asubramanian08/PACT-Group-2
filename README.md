@@ -28,3 +28,4 @@ A large portion of our time in PACT group 2 is with guest speakers. Very accompl
 
 Date | Guest Speaker | Topic | Notes | Lecture Recording
 --- | --- | --- | --- | ---
+July 13 Morning | Professor Sanjeev Khanna | PCP Theorem and its applications | [Notes PDF](GuestSpeakers/sanjeevPCPNotes.pdf) | [Recording](https://upenn.zoom.us/rec/share/ZukQYQOwuO3tTSlNMDBKVpMiFCI9DdvA9l-tHBxZBar3VEFGr6keeZpswSWWMAA.ducs6fYznFSVBkZF)
