@@ -1,12 +1,14 @@
 # Pact Group 2
 
-I really enjoyed my second year in [PACT](https://algorithmicthinking.org/overview) as part of their group 2 with Dr. Rajiv Gandhi (see my work for [group 1](https://github.com/asubramanian08/PACT-Group-1)). I joined about 25 other people in group 2 during the summer of 2022. I didn't attend the year round program (due to a scheduling conflict), so normally I wouldn't be allowed to join group 2. Since I was really eager to join group 2 and dive deeper into theoretical CS, I independently studied the [year round material](https://g.co/kgs/4D6Ewu). Dr. Gandhi then assessed my understanding and determined that I was eligible for group 2! :)
+I really enjoyed my second year in [PACT](https://algorithmicthinking.org/overview) as part of their group 2 with [Dr. Rajiv Gandhi](https://directory.seas.upenn.edu/rajiv-gandhi/) (see my work for [group 1](https://github.com/asubramanian08/PACT-Group-1)). I joined about 25 other people in group 2 during the summer of 2022. I didn't attend the year round program (due to a scheduling conflict), so normally I wouldn't be allowed to join group 2. Since I was really eager to join group 2 and dive deeper into theoretical CS, I independently studied the [year round material](https://g.co/kgs/4D6Ewu). Dr. Gandhi then assessed my understanding and determined that I was eligible for group 2! :)
 
 ## Group 2 description
 
 Group 2 studies more advanced topics in theoretical computer science, specifically approximation and randomization algorithms. See exactly what topics are covered in the Topics column of [Class Materials](https://github.com/asubramanian08/PACT-Group-2#class-materials). I wanted to continue with PACT since I really enjoyed group 1 and CS Theory is REALLY interesting.
 
 As part of group 2, I got to mentor 6 of the group 1 students. I remember how helpful my mentor was in group 1. Since the topics were new to me, I asked my mentor a lot of questions to clarify the topics. I hope I did as good of a job mentoring as my group 1 mentor did.
+
+Another Major Part PACT group 2 is the Guest Speakers. See the [Guest Speakers section](https://github.com/asubramanian08/PACT-Group-2/blob/master/README.md#guest-speakers) of the README.
 
 ## Class Materials
 
@@ -20,3 +22,9 @@ Additional info:
 
 Date | Topics | Lecture Materials | Additional Reading | Homework | Implementations
 --- | --- | --- | --- | --- | ---
+
+## Guest Speakers
+A large portion of our time in PACT group 2 is with guest speakers. Very accomplished people will come to talk to PACT group 2 and give talks or lectures about various topics in Theoretical Computer Science. All the guest speakers' notes are stored in the "GuestSpeakers" *private* folder.
+
+Date | Guest Speaker | Topic | Notes | Lecture Recording
+--- | --- | --- | --- | ---
