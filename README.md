@@ -20,8 +20,21 @@ Additional info:
 * *Probability and Computing: Randomized Algorithms and Probabilistic Analysis* book by Mitzenmacher and Upfal is written as MU in the Additional Reading section.
 * All recording passwords are located [here](RecordingPasswords.md) (private file).
 
-Date | Topics | Lecture Materials | Additional Reading | Homework | Implementations
---- | --- | --- | --- | --- | ---
+Date | Topics | Lecture Materials | Additional Reading | Homework
+--- | --- | --- | --- | ---
+June 27 Morning | Vertex Cover<br>K-Center | [Class Notes](ClassNotes/06-27M.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/Kv-FydsFFRbgw6Q_EdXadtJZ5Hv1ya5aBFzGvt5JalvYhMnss4HsmiCGGOVjV_p9.WJ05fW_K1tm7A0Al) | [K-Center](AdditionalReading/kcenter.pdf) |
+June 27 Evening | Probability Review | [Class Notes](ClassNotes/06-27E.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/P2D8jrgY5AxhrzjfoonQgjTDjAgp459b_oI9eNmOSizl4iMVPcXLdgZ9F012hiQE.CkNmerKC6D2vh5qM) | [Probability](AdditionalReading/probability.pdf) |
+June 28 Morning | K-Center<br>Scheduling Parallel Machines<br>Traveling Salesman Problem | [Class Notes](ClassNotes/06-28M.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/qONLLsIb3pNlA8zgTkth9C-A0IqPIKP2mo2-WwdsU3uAm0ZqLhd_6sMxJ2Sth04R.iJg_2qZEm8RgzcI4) | [WS](AdditionalReading/ApproxAlgoDesign.pdf) section 2.4 | [Question](HW_Questions/HW1.pdf)<br>[Answer](HW_Answers/HW1.md)<br>[Solution](HW_Solutions/HW1.pdf)
+June 28 Evening | Variance<br>Chebyshev's Inequality | [Class Notes](ClassNotes/06-28E.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/Mpu1zhl71n-dL82zEf6SmmaK4hmfWk8jQQ5X-AVs1UzLCByq8TkMoTDF9C2NS-HM.LoKh-dLD9sbqm1Ri) | [Probability](AdditionalReading/probability.pdf) | [Question](HW_Questions/HW2.pdf)<br>[Answer](HW_Answers/HW2.md)<br>[Solution](HW_Solutions/HW2.pdf)
+June 29 | Set Cover | [Class Notes](ClassNotes/06-29.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/Ok8Ku88cJkG4rwznXZ1oOtl52ZLSmiNJkw7OTnX21eH2Tlx79G_6DYZvn4YxSdLa.YRWX4fAzn9dcFApY) | | |
+June 30 | Maximizing float in bank accounts | [Class Notes](ClassNotes/06-30.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/xLfeqb_PmV4a4TFPfD7LmNQzwm7wcs6iydsyf4yH02Qd7ejg6jET27PEEJmc3c0g.qwNDvGi7Y0QYeQpZ) | [WS](AdditionalReading/ApproxAlgoDesign.pdf) section 2.5 |
+July 1 | Linear Programming, LP-rounding | [Class Notes](ClassNotes/07-01.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/LLmCkyKa-U--Q9MmNjQWXGg9tylWKkmQ6GPo7o0CXHiIAi7cQMmBC9ea7Y5xDRnF.asBeU19zlagAeUuD) | [LP Notes](AdditionalReading/lp.pdf)<br>[Vertex Cover](AdditionalReading/vcRounding.pdf) |
+July 5 | Knapsack, Binomial Distribution | [Class Notes](ClassNotes/07-05.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/TntdWv6NIpvV-LoPSym95gUUlcbCdJgKnqM1oCGRSdqmukmLK5g2oUtTZjDwRCSe.gi2GnJn604oXY55l) | [VV](AdditionalReading/ApproximationAlgorithms.pdf) sections 8.1-8.2<br>[Probability](AdditionalReading/probability.pdf) |
+July 6 | Bin Packing, Karger's min-cut algorithm | [Class Notes](ClassNotes/07-06.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/WMc0FLpxBwqPALeJdWue93q0Ji-YDDc1drfaGuobYTEzY1YWF5G-AW0nwO06Hy9L.qpkD8pufC6bYlr9g) | [Bin Packing](AdditionalReading/binPacking.pdf)<br>[MU](AdditionalReading/Probability_RandAlgo.pdf) section 1.4 | [Question](HW_Questions/HW3.pdf)<br>[Answer](HW_Answers/HW3.md)<br>[Solution](HW_Solutions/HW3.pdf)
+July 7 | LP-rounding | [Class Notes](ClassNotes/07-07.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/dq-JvAkZDCOrrC5e27WpcjbZN9RbgUptFluiS6QbVeIIuBhRCZBtHlo_1eA9jrFJ.LXzL7I63kVazPdDr) | [WS](AdditionalReading/ApproxAlgoDesign.pdf) sections 4.1-4.3 |
+July 8 | LP-rounding, Primal-dual | [Class Notes](ClassNotes/07-08.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/s3KZerj5FVM6283B6H3EB3Jmva3kns-XAVjZ1HndJ_6CAEYaCtF1HbUEwvGPyTjn.PLiMBI4BS98L6QtH) | [WS](AdditionalReading/ApproxAlgoDesign.pdf) section 4.5 |
+July 11 | Primal-dual | [Class Notes](ClassNotes/07-11.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/vmnGKd-_oOZtCUUosaCcDpcECk5ynKBvzFj0CdA-Wouz3P1Z8pIOIXoaPzPKxbVe.nvIm5gBZLzMvgDRG) | [Facility Location](AdditionalReading/facilityLocation.pdf) |
+July 12 | Estimating a parameter, Randomized Rounding | [Class Notes](ClassNotes/07-12.pdf)<br>[Recording](https://upenn.zoom.us/rec/share/pMnOIE_ALt357os7CFNOsLrG2vxV1HVy4DDUmo_nTU1249ldzd7PfydrS88-Dx4F.2BQA3ITgaKPgdY5D) | [Randomized Rounding](AdditionalReading/randomizedrounding.pdf)<br> [Chernoff bounds](AdditionalReading/chernoff.pdf) |
 
 ## Guest Speakers
 A large portion of our time in PACT group 2 is with guest speakers. Very accomplished people will come to talk to PACT group 2 and give talks or lectures about various topics in Theoretical Computer Science. All the guest speakers' notes are stored in the "GuestSpeakers" *private* folder.
@@ -29,3 +42,9 @@ A large portion of our time in PACT group 2 is with guest speakers. Very accompl
 Date | Guest Speaker | Topic | Notes | Lecture Recording
 --- | --- | --- | --- | ---
 July 13 Morning | Professor Sanjeev Khanna | PCP Theorem and its applications | [Notes PDF](GuestSpeakers/sanjeevPCPNotes.pdf) | [Recording](https://upenn.zoom.us/rec/share/ZukQYQOwuO3tTSlNMDBKVpMiFCI9DdvA9l-tHBxZBar3VEFGr6keeZpswSWWMAA.ducs6fYznFSVBkZF)
+July 13 Evening | Shreya Mogulothu | Steaming | Notes PDF<br>[Lecture Notes](GuestSpeakers/streamingLecturenotes.pdf) | [Recording](https://upenn.zoom.us/rec/share/X3PWg6nk69Nh3fnTHPfcj4oQZ0hFV19LKZhLJnsCDBqp2ZmJnwzxkyxHZpcxI4hD.7cSwZWMMY3hEMSJm)
+July 14 | Professor Jelani Nelson | Frequent Items | Notes PDF | [Recording](https://upenn.zoom.us/rec/share/u5Mx4eWjGmvbQq6LyxF-KakUpTWZ8h--r9yDZQOWJ3T5_DAUCT-pcoRsNBJU5oJ1.IkeEFUKh8EucHVD5)
+July 15 | Professor David Williamson | Max-SAT | [Notes PDF](GuestSpeakers/dpwMaxSat.pdf)<br>[WS](AdditionalReading/ApproxAlgoDesign.pdf) section 5.1-5.5 | [Recording](https://upenn.zoom.us/rec/share/UPDViKvV7JdbFz3xqMtuakiymns34iQQB2cjQ-m-nGq-igF96wYP_GhLIzpRTSo5.pgouJ-xIpi9lQ4j9)
+July 18 | Professor David Williamson | Maximizing Submodular functions | [Notes PDF](GuestSpeakers/dpwSubmodularFns.pdf) | [Recording](https://upenn.zoom.us/rec/share/U4xw87MADWoiST6zXrKsBdajRPFQuQNGrw_8YC9eGzFwUmyWXIFapidSDG5c8N0k.ZSti4bG0PuICDPMn)
+July 19 | Professor Sepehr Assadi | Graph Streaming | Notes PDF<br>[Lecture Notes](GuestSpeakers/lec1.pdf) | [Recording](https://upenn.zoom.us/rec/share/1gqb6U9mnpHNB_HCVFAOJ0Vz08sPZ9iaQsEkeM5g9pmWLhT8pzkqTFMk2iXpRmmv.tGvdc07w6eqzbH0e)
+July 20 | Aadityan Ganesh | An invitation to Algorithmic Game Theory | [Notes PDF](GuestSpeakers/AGT.pdf)<br>[Lecture Notes](GuestSpeakers/l11.pdf) | [Recording](https://upenn.zoom.us/rec/share/HMq2cJUzQOUmM-kMA_pQ-S4IkqFWr9G_OYn2ZFqO3B_CVyICCCMCKYgMqKuhTFPQ.cHxzY6Avs8d5CFho)
